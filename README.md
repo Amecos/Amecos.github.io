@@ -1,4 +1,4 @@
-# Ameco Smith
+# Amecos.github.io
 
 ### About Myself
 
