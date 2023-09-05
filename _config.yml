@@ -1,2 +1,5 @@
-
-theme:  jeykll-theme-minimal
+title: Ameco Smith
+description: Portfilio
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
