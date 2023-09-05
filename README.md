@@ -47,7 +47,7 @@ Fundraising
 Program Oversight
  Research
 
- ### Projects
+### Projects
 
  NBA Stats Generator — Via Github
 9/2021
